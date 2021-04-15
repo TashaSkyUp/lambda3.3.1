@@ -4,6 +4,7 @@ import numpy as np
 import spacy
 import pandas as pd
 
+
 transformer = spacy.load('my_model')
 
 
